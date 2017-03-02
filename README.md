@@ -1,0 +1,1 @@
+this is a wordpress plugin i made for a client, its used to display a product list with details inside lightbox
